@@ -2169,6 +2169,6 @@ do
 		end
 	end
 end
-
-print("dino was here :\)")
+local credits = "M".."a".."d".."e".." B".."y".." K".."A".."TT".."M"
+print(credits)
 return library
